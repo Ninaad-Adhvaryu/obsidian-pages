@@ -1,15 +1,9 @@
-# Obsidian Notes
+Welcome to the Obsidian Pages Homepage!
 
-Publish your public notes with MkDocs
+Here, tests will be run to see how the GitHub Pages handles the Obsidian Vault
 
-## Hello World!
+[[Page 1]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+[[Page 2]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-
----
-
-Testing and adding next text here!
